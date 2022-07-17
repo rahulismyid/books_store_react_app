@@ -1,0 +1,7 @@
+.fallback-loader-container {
+    color: #4a4a4a;
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+}

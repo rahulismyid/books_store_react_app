@@ -1,0 +1,23 @@
+
+.reviews-text {
+    margin-left: 5px;
+}
+
+.star-icon {
+    color: #ccc;
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+.star-icon.filled {
+    color: #F7A115;
+}
+
+.reviews-text {
+  color: #4a4a4a;
+  font-size: 14px;
+  font-weight: normal;
+  text-decoration: underline;
+  margin-left: 5px;
+  vertical-align: middle;
+}

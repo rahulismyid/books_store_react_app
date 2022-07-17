@@ -1,0 +1,9 @@
+.fallback-loader-container {
+	color: #4a4a4a;
+	height: 100vh;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
